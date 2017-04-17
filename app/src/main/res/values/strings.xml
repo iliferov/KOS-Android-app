@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">KOSapp</string>
+    <string name="app_name">KOS mobile</string>
+    <string name="study_information_system">STUDIJNÍ INFORMAČNÍ SYSTÉM</string>
+    <string name="login">login</string>
+    <string name="cvut_logo">CVUT_logo</string>
 </resources>
